@@ -1,0 +1,769 @@
+May 19, 2025 6:05:54 PM com.rapidminer.tools.net.UserProvidedTLSCertificateLoader logLoaded
+INFO: Loaded 0 certificates from C:\Users\Noor Ayyad\.AltairRapidMiner\AI Studio\shared\cacerts
+May 19, 2025 6:05:59 PM com.rapidminer.gui.RapidMinerGUI run
+INFO: Launching AI Studio 2025.0.1 (Engine: 11.0.1), platform WIN64, with Java Eclipse Adoptium 17.0.12 on Windows 11 (10.0 / amd64)
+May 19, 2025 6:06:00 PM com.rapidminer.tools.PlatformUtilities logInfo
+INFO: rapidminer.home is 'C:\Program Files\Altair\RapidMiner\AI Studio 2025.0.1'.
+May 19, 2025 6:06:00 PM com.rapidminer.tools.ProxySettings$ProxyVoleLogger log
+WARNING: Windows function WinHttpDetectAutoProxyConfigUrl returned error : {}
+May 19, 2025 6:06:04 PM com.rapidminer.core.license.ProductConstraintManager initialize
+INFO: Initializing license manager.
+May 19, 2025 6:06:04 PM com.rapidminer.core.license.ProductConstraintManager initialize
+INFO: Using default license location.
+May 19, 2025 6:06:04 PM com.rapidminer.core.license.ProductConstraintManager initialize
+INFO: Registering default product.
+May 19, 2025 6:06:04 PM com.rapidminer.io.process.XMLTools hardenDocumentBuilderFactory
+WARNING: Could not set http://javax.xml.XMLConstants/property/accessExternalStylesheet for XML processor
+May 19, 2025 6:06:04 PM com.rapidminer.io.process.XMLTools hardenDocumentBuilderFactory
+WARNING: Could not set http://javax.xml.XMLConstants/property/accessExternalStylesheet for XML processor
+May 19, 2025 6:06:04 PM com.rapidminer.repository.FileRepositoryProvider load
+WARNING: Unknown tag: filesystemRepository
+May 19, 2025 6:06:04 PM com.rapidminer.repository.FileRepositoryProvider load
+WARNING: Unknown tag: filesystemRepository
+May 19, 2025 6:06:04 PM com.rapidminer.repository.FileRepositoryProvider load
+WARNING: Unknown tag: filesystemRepository
+May 19, 2025 6:06:04 PM com.rapidminer.search.GlobalSearchRegistry registerSearchCategory
+INFO: Global Search category repository registered.
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Cloud Connectivity
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Data Editor
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: H2O
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Model Simulator
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Multi Language Pack
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Operator Recommender
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Process Scheduling
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Advanced File Connectors
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Blending
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Browser
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Concurrency
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: CTA
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: HTML5 Charts
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Interactivity
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: JDBC Connectors
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: KS Provider
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Legacy Result Access
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Modeling
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Productivity
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Professional
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Remote Repository
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Utility
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Social Media
+May 19, 2025 6:06:04 PM com.rapidminer.tools.plugin.Plugin registerPlugins
+INFO: Register plugin: Time Series
+May 19, 2025 6:06:06 PM com.rapidminer.tools.config.ConfigurationManager register
+WARNING: Registered configurator Twitter Connection. Please update your extension to use the new connection framework!
+May 19, 2025 6:06:07 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initPlugin$2
+INFO: Async: Init browser setup.
+May 19, 2025 6:06:07 PM com.rapidminer.tools.config.ConfigurationManager register
+WARNING: Registered configurator Amazon S3 Connection. Please update your extension to use the new connection framework!
+May 19, 2025 6:06:07 PM com.rapidminer.tools.config.ConfigurationManager register
+WARNING: Registered configurator Azure Blob Storage Connection. Please update your extension to use the new connection framework!
+May 19, 2025 6:06:07 PM com.rapidminer.tools.config.ConfigurationManager register
+WARNING: Registered configurator gui.configurable.cloud.azure.gen2.name. Please update your extension to use the new connection framework!
+May 19, 2025 6:06:07 PM com.rapidminer.tools.config.ConfigurationManager register
+WARNING: Registered configurator Google Cloud Storage Connection. Please update your extension to use the new connection framework!
+May 19, 2025 6:06:07 PM com.rapidminer.tools.config.ConfigurationManager register
+WARNING: Registered configurator Dropbox Connection. Please update your extension to use the new connection framework!
+May 19, 2025 6:06:08 PM com.rapidminer.extension.jdbc.tools.jdbc.JDBCProperties registerDrivers
+INFO: JDBC driver net.sourceforge.jtds.jdbc.Driver not found. Probably the driver is not installed.
+May 19, 2025 6:06:08 PM com.rapidminer.extension.jdbc.tools.jdbc.JDBCProperties <init>
+WARNING: Missing database driver class name for ODBC Bridge (e.g. Access)
+May 19, 2025 6:06:08 PM com.rapidminer.extension.jdbc.tools.jdbc.JDBCProperties <init>
+WARNING: Missing database driver class name for Ingres
+May 19, 2025 6:06:09 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initPlugin$2
+INFO: Async: Basic browser setup test starting.
+May 19, 2025 6:06:11 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initPlugin$2
+INFO: Async: Created basic browser instance.
+May 19, 2025 6:06:11 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initPlugin$2
+INFO: Async: Loaded basic browser test content. Executing functionality check.
+May 19, 2025 6:06:11 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initPlugin$2
+INFO: Async: Basic browser setup test successful.
+May 19, 2025 6:06:12 PM com.rapidminer.repository.RepositoryManager registerExtensionSamples
+INFO: Registered 'Time Series' as sample folder.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Professional 11.0.1 was loaded in 7ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Productivity 11.0.1 was loaded in 13ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Operator Recommender 10.3.1 was loaded in 14ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Modeling 11.0.1 was loaded in 16ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Utility 11.0.1 was loaded in 17ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Process Scheduling 10.4.0 was loaded in 17ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension CTA 11.0.1 was loaded in 22ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Multi Language Pack 11.0.0 was loaded in 24ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Data Editor 10.3.1 was loaded in 24ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension KS Provider 11.0.1 was loaded in 25ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Interactivity 11.0.1 was loaded in 35ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Legacy Result Access 11.0.1 was loaded in 39ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Concurrency 11.0.1 was loaded in 49ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Social Media 10.3.1 was loaded in 64ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Time Series 10.3.1 was loaded in 141ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Browser 11.0.1 was loaded in 153ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension H2O 11.0.0 was loaded in 217ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension HTML5 Charts 11.0.1 was loaded in 217ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Model Simulator 10.5.0 was loaded in 247ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Remote Repository 11.0.1 was loaded in 249ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Advanced File Connectors 11.0.1 was loaded in 259ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Blending 11.0.1 was loaded in 418ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension Cloud Connectivity 11.0.0 was loaded in 852ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.plugin.Plugin initAll
+INFO: Extension JDBC Connectors 11.0.1 was loaded in 4231ms.
+May 19, 2025 6:06:12 PM com.rapidminer.tools.MailUtilities initializeMailCap
+INFO: Initializing mail cap
+May 19, 2025 6:06:12 PM com.rapidminer.search.GlobalSearchRegistry registerSearchCategory
+INFO: Global Search category operator registered.
+May 19, 2025 6:06:18 PM com.rapidminer.tools.config.ClientConfigurationManager loadAllParameters
+INFO: No configuration file found for Amazon S3 Connection
+May 19, 2025 6:06:18 PM com.rapidminer.tools.config.ClientConfigurationManager loadAllParameters
+INFO: No configuration file found for Azure Blob Storage Connection
+May 19, 2025 6:06:18 PM com.rapidminer.tools.config.ClientConfigurationManager loadAllParameters
+INFO: No configuration file found for gui.configurable.cloud.azure.gen2.name
+May 19, 2025 6:06:18 PM com.rapidminer.tools.config.ClientConfigurationManager loadAllParameters
+INFO: No configuration file found for Dropbox Connection
+May 19, 2025 6:06:18 PM com.rapidminer.tools.config.ClientConfigurationManager loadAllParameters
+INFO: No configuration file found for Google Cloud Storage Connection
+May 19, 2025 6:06:18 PM com.rapidminer.tools.config.ClientConfigurationManager loadAllParameters
+INFO: No configuration file found for Twitter Connection
+May 19, 2025 6:06:20 PM com.rapidminer.search.GlobalSearchRegistry registerSearchCategory
+INFO: Global Search category actions registered.
+May 19, 2025 6:06:20 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initGui$5
+INFO: Async: Hardware accelerated browser setup test starting.
+May 19, 2025 6:06:20 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initGui$5
+INFO: Async: Created hardware accelerated browser instance.
+May 19, 2025 6:06:20 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initGui$5
+INFO: Async: Loaded hardware accelerated browser test content. Executing functionality check.
+May 19, 2025 6:06:20 PM com.rapidminer.extension.browser.PluginInitBrowser lambda$initGui$5
+INFO: Async: Hardware accelerated browser setup test successful.
+May 19, 2025 6:06:24 PM com.rapidminer.io.process.XMLTools hardenDocumentBuilderFactory
+WARNING: Could not set http://javax.xml.XMLConstants/property/accessExternalStylesheet for XML processor
+May 19, 2025 6:06:25 PM com.rapidminer.search.GlobalSearchRegistry registerSearchCategory
+INFO: Global Search category academy registered.
+May 19, 2025 6:06:25 PM com.rapidminer.gui.search.GlobalSearchGUIRegistry registerSearchVisualizationProvider
+INFO: Global Search GUI provider added for category academy.
+May 19, 2025 6:06:25 PM com.rapidminer.gui.MainFrame finishInitialization
+WARNING: Not adding legacy connections menu even though legacy configurables are present. Check log for offending extensions
+May 19, 2025 6:06:26 PM com.rapidminer.extension.remote.PluginInitRemoteRepository$2 run
+INFO: Community repository 'Training Resources' added.
+May 19, 2025 6:06:26 PM com.rapidminer.extension.remote.PluginInitRemoteRepository$2 run
+INFO: Community repository 'Community Samples' added.
+May 19, 2025 6:06:30 PM com.rapidminer.gui.search.GlobalSearchGUIRegistry registerSearchVisualizationProvider
+INFO: Global Search GUI provider added for category operator.
+May 19, 2025 6:06:30 PM com.rapidminer.gui.search.GlobalSearchGUIRegistry registerSearchVisualizationProvider
+INFO: Global Search GUI provider added for category repository.
+May 19, 2025 6:06:30 PM com.rapidminer.gui.search.GlobalSearchGUIRegistry registerSearchVisualizationProvider
+INFO: Global Search GUI provider added for category actions.
+May 19, 2025 6:06:30 PM com.rapidminer.search.GlobalSearchRegistry registerSearchCategory
+INFO: Global Search category marketplace registered.
+May 19, 2025 6:06:30 PM com.rapidminer.gui.search.GlobalSearchGUIRegistry registerSearchVisualizationProvider
+INFO: Global Search GUI provider added for category marketplace.
+May 19, 2025 6:06:31 PM com.rapidminer.deployment.update.client.MarketplaceUpdateManager$1 run
+INFO: Checking for updates.
+May 19, 2025 6:06:34 PM com.rapidminer.deployment.update.client.MarketplaceUpdateManager$1 run
+INFO: No updates since 5/5/25 3:00 PM.
+May 19, 2025 6:07:08 PM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 19, 2025 6:07:08 PM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/neural net starts
+May 19, 2025 6:08:59 PM com.rapidminer.Process saveResults
+INFO: Saving results.
+May 19, 2025 6:08:59 PM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/neural net finished successfully after 1:51
+May 19, 2025 8:12:03 PM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 19, 2025 8:12:04 PM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/Decision Tree starts
+May 19, 2025 8:12:10 PM com.rapidminer.Process saveResults
+INFO: Saving results.
+May 19, 2025 8:12:10 PM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/Decision Tree finished successfully after 6 s
+May 23, 2025 3:38:35 PM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 23, 2025 3:38:35 PM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 23, 2025 3:38:44 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.4454 imp=.3E0 bdf=.1E1
+May 23, 2025 3:38:44 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.4463 imp=.29E0 bdf=.1E1
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 6% - iter=2 lmb=.0E0 alpha=.5E0 obj=0.4258 imp=.43E-1 bdf=.38E0
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 6% - iter=2 lmb=.0E0 alpha=.5E0 obj=0.4261 imp=.43E-1 bdf=.39E0
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.4477 imp=.29E0 bdf=.1E1
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.4477 imp=.29E0 bdf=.1E1
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.447 imp=.29E0 bdf=.1E1
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.4467 imp=.29E0 bdf=.1E1
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.4458 imp=.3E0 bdf=.1E1
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 8% - iter=3 lmb=.0E0 alpha=.5E0 obj=0.4245 imp=.49E-2 bdf=.46E0
+May 23, 2025 3:38:45 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 4% - iter=1 lmb=.0E0 alpha=.5E0 obj=0.447 imp=.29E0 bdf=.1E1
+May 23, 2025 3:38:49 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 10% - iter=4 lmb=.0E0 alpha=.5E0 obj=0.4236 imp=.86E-3 bdf=.61E0
+May 23, 2025 3:38:49 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 8% - iter=3 lmb=.0E0 alpha=.5E0 obj=0.4253 imp=.49E-2 bdf=.45E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 20% - iter=9 lmb=.0E0 alpha=.5E0 obj=0.4243 imp=.24E-5 bdf=.55E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 16% - iter=7 lmb=.0E0 alpha=.5E0 obj=0.4266 imp=.17E-4 bdf=.53E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 20% - iter=9 lmb=.0E0 alpha=.5E0 obj=0.4235 imp=.25E-5 bdf=.56E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 12% - iter=5 lmb=.0E0 alpha=.5E0 obj=0.4256 imp=.23E-3 bdf=.62E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 22% - iter=10 lmb=.0E0 alpha=.5E0 obj=0.424 imp=.82E-6 bdf=.54E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 20% - iter=9 lmb=.0E0 alpha=.5E0 obj=0.4254 imp=.23E-5 bdf=.55E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 18% - iter=8 lmb=.0E0 alpha=.5E0 obj=0.4233 imp=.61E-5 bdf=.53E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 10% - iter=4 lmb=.0E0 alpha=.5E0 obj=0.4267 imp=.82E-3 bdf=.6E0
+May 23, 2025 3:38:50 PM com.rapidminer.h2o.operator.H2OLearner$1 run
+INFO: H2O: 12% - iter=5 lmb=.0E0 alpha=.5E0 obj=0.4254 imp=.22E-3 bdf=.6E0
+May 23, 2025 3:38:54 PM com.rapidminer.Process saveResults
+INFO: Saving results.
+May 23, 2025 3:38:54 PM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression finished successfully after 18 s
+May 25, 2025 12:53:43 AM com.rapidminer.tools.usagestats.UsageStatsScheduler$2 run
+WARNING: Error submitting operator usage statistics. Are you online?
+java.lang.IllegalArgumentException
+	at java.base/java.util.concurrent.ThreadPoolExecutor.setMaximumPoolSize(Unknown Source)
+	at com.rapidminer.extension.concurrency.execution.BackgroundExecutionService.updatePoolSize(BackgroundExecutionService.java:132)
+	at com.rapidminer.extension.concurrency.execution.BackgroundExecutionService$2.handleLicenseEvent(BackgroundExecutionService.java:119)
+	at com.rapidminer.license.internal.DefaultLicenseManager.handleLicenseEvent(DefaultLicenseManager.java:1227)
+	at com.rapidminer.license.internal.DefaultLicenseManager.setActiveLicense(DefaultLicenseManager.java:510)
+	at com.rapidminer.license.internal.DefaultLicenseManager.getDefaultActiveLicense(DefaultLicenseManager.java:538)
+	at com.rapidminer.license.internal.DefaultLicenseManager.getActiveLicense(DefaultLicenseManager.java:516)
+	at com.rapidminer.core.license.ProductConstraintManager.getActiveLicense(ProductConstraintManager.java:268)
+	at com.rapidminer.altair.license.RapidMinerLicenseConstraints.getNumberOfAllowedThreads(RapidMinerLicenseConstraints.java:37)
+	at com.rapidminer.altair.license.StudioConstraintsManager.getNumberOfAllowedThreads(StudioConstraintsManager.java:67)
+	at com.rapidminer.extension.professional.tools.ThreadParameterProvider.getNumberOfAllowedThreads(ThreadParameterProvider.java:108)
+	at com.rapidminer.extension.professional.PluginInitProfessional.updateThreadSettings(PluginInitProfessional.java:73)
+	at com.rapidminer.extension.professional.PluginInitProfessional$1.handleLicenseEvent(PluginInitProfessional.java:63)
+	at com.rapidminer.license.internal.DefaultLicenseManager.handleLicenseEvent(DefaultLicenseManager.java:1227)
+	at com.rapidminer.license.internal.DefaultLicenseManager.setActiveLicense(DefaultLicenseManager.java:510)
+	at com.rapidminer.license.internal.DefaultLicenseManager.getDefaultActiveLicense(DefaultLicenseManager.java:538)
+	at com.rapidminer.license.internal.DefaultLicenseManager.getActiveLicense(DefaultLicenseManager.java:516)
+	at com.rapidminer.core.license.ProductConstraintManager.getActiveLicense(ProductConstraintManager.java:268)
+	at com.rapidminer.tools.usagestats.UsageStatistics.getXML(UsageStatistics.java:247)
+	at com.rapidminer.tools.usagestats.UsageStatistics.transferUsageStats(UsageStatistics.java:365)
+	at com.rapidminer.tools.usagestats.UsageStatsScheduler$2.run(UsageStatsScheduler.java:147)
+	at com.rapidminer.gui.tools.ProgressThread$3.run(ProgressThread.java:586)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+
+May 27, 2025 1:25:30 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:25:30 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:26:09 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:26:15 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:26:15 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:26:20 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:27:15 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:27:15 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:27:58 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:28:40 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:28:40 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:29:54 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:30:48 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:30:48 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:31:22 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:33:45 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:33:45 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:34:00 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:34:14 AM com.rapidminer.parameter.ParameterTypePassword decryptPassword
+INFO: Cannot decrypt password, trying legacy decryption.
+May 27, 2025 1:34:37 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:34:37 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:34:40 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
+May 27, 2025 1:34:44 AM com.rapidminer.parameter.ParameterTypePassword decryptPassword
+INFO: Cannot decrypt password, trying legacy decryption.
+May 27, 2025 1:35:00 AM com.rapidminer.tools.ResultService init
+INFO: No filename given for result file, using stdout for logging results!
+May 27, 2025 1:35:00 AM com.rapidminer.Process execute
+INFO: Process //graduation project/Process/logistic regression starts
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessError
+SEVERE: Process failed: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows. Please consider upgrading your license in case you want to use data with more than 10,000 rows.
+com.rapidminer.operator.PortUserError: Your license only permits up to 10,000 rows of data in a process, however the input data contained 36,275 rows.
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.showDataRowLimitExceededErrorOnce(DataRowLimitCheck.java:328)
+	at com.rapidminer.extension.professional.operator.license.DataRowLimitCheck.preOperator(DataRowLimitCheck.java:177)
+	at com.rapidminer.Process.fireProcessFlowBeforeOperator(Process.java:861)
+	at com.rapidminer.operator.execution.SimpleUnitExecutor.execute(SimpleUnitExecutor.java:73)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:805)
+	at com.rapidminer.operator.ExecutionUnit$2.run(ExecutionUnit.java:800)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at com.rapidminer.operator.ExecutionUnit.execute(ExecutionUnit.java:800)
+	at com.rapidminer.operator.OperatorChain.doWork(OperatorChain.java:264)
+	at com.rapidminer.operator.Operator.execute(Operator.java:808)
+	at com.rapidminer.Process.executeRoot(Process.java:1441)
+	at com.rapidminer.Process.lambda$executeRootInPool$5(Process.java:1417)
+	at com.rapidminer.studio.concurrency.internal.AbstractConcurrencyContext$AdaptedCallable.exec(AbstractConcurrencyContext.java:362)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source)
+
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE: Here: 
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:           Process[1] (Process)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Main Process'
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:        ==>   +- Retrieve Hotel Reservations  sheets all[1] (Retrieve)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Set Role[0] (Set Role)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Nominal to Numerical[0] (Nominal to Numerical)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical[0] (Date to Numerical)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Date to Numerical (2)[0] (Date to Numerical)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:              +- Cross Validation[0] (Cross Validation)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Training'
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                 |  +- Logistic Regression[0] (Logistic Regression)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:            subprocess 'Testing'
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Model[0] (Apply Model)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Create Threshold[0] (Create Threshold)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Apply Threshold[0] (Apply Threshold)
+May 27, 2025 1:38:37 AM com.rapidminer.gui.ProcessThread logProcessTreeList
+SEVERE:                    +- Performance[0] (Performance)
