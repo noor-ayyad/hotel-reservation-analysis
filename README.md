@@ -51,7 +51,7 @@ https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-datase
 ---
 
 ## Dashboard Preview
-
+https://github.com/noor-ayyad/hotel-reservation-analysis/commit/0007a4c28024614bd12af3a6356f6f446aca3e43
 
 ---
 
